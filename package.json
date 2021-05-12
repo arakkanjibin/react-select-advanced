@@ -2,7 +2,14 @@
   "name": "react-select-advanced",
   "version": "1.0.0",
   "description": "An interactive parallax image component",
-  "keywords": ["react", "react select", "js select", "react dropdown", "js search dropdowm", "react search dropdown"],
+  "keywords": [
+    "react",
+    "react select",
+    "js select",
+    "react dropdown",
+    "js search dropdowm",
+    "react search dropdown"
+  ],
   "author": "jibinarakkan",
   "license": "MIT",
   "repository": "arakkanjibin/react-select-advanced",
@@ -12,7 +19,6 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
